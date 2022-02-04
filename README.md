@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NuutXD
 - 👀 I’m interested in Gaming, web development and music making.
-- 🌱 I’m currently learning() {
+- 🌱 I’m currently learning:
   - PHP
   - MySQL
   - JavaScript
@@ -11,9 +11,9 @@
   - Android Studio / Java
 }
 - 💞️ I’m looking to collaborate on literally everything
-- 📫 How to reach me() {
+- 📫 How to reach me:
   - Really can't
-}
+
 
 <!---
 NuutXD/NuutXD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
