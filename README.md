@@ -10,7 +10,7 @@
   - Python
   - Android Studio / Java
   - Laravel
-}
+  - 
 - 💞️ I’m looking to collaborate on literally everything
 - 📫 How to reach me:
   - Really can't
