@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NuutXD
+- 👋 Hi, I’m @v1Pe04
 - 👀 I’m interested in Gaming, web development and music making.
 - 🌱 I’m currently learning:
   - PHP
@@ -9,6 +9,7 @@
   - HTML
   - Python
   - Android Studio / Java
+  - Laravel
 }
 - 💞️ I’m looking to collaborate on literally everything
 - 📫 How to reach me:
